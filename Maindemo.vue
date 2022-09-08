@@ -8,8 +8,8 @@
    
     <div class="signup-form">
         <form action="index.html">
-            <h3>Yeni Bir Hesap Oluştur</h3>
-            <p class="title">Hızlı ve kolaydır.</p>
+            <h3 style="color:dimgray">Yeni Bir Hesap Oluştur</h3>
+            <p class="title" style="color:dimgray;">Hızlı ve kolaydır.</p>
             <hr>
             <div class="name">
                 <input class="name-txt" type="text" placeholder="Adın">
